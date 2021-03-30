@@ -1,1 +1,1 @@
-# knn
+# knn algorithm from scratch (Read Only)
